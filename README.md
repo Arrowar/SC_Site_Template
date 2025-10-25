@@ -1,4 +1,4 @@
-# SC_Site_Template# Site Template Guide
+# Site Template Guide
 
 ## Overview
 
